@@ -1,0 +1,4 @@
+# Ignorar executáveis na pasta src
+!src/*.*
+!src/*/
+src/[!.]*

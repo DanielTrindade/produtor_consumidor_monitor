@@ -23,14 +23,14 @@ Implementar um buffer compartilhado com:
 
 ## Critérios de Avaliação
 
-| Critério                          | Pontuação |
-|----------------------------------|-----------|
-| Exclusão mútua correta           | 2.0       |
-| Uso adequado de variáveis de condição | 2.0  |
-| Sem deadlocks                    | 2.0       |
-| Saída conforme especificação     | 2.0       |
-| Clareza e organização do código  | 2.0       |
-| **Total**                        | **10.0**  |
+| Critério                              | Pontuação |
+|---------------------------------------|-----------|
+| Exclusão mútua correta                |     2.0   |
+| Uso adequado de variáveis de condição |     2.0   |
+| Sem deadlocks                         |     2.0   |
+| Saída conforme especificação          |     2.0   |
+| Clareza e organização do código       |     2.0   |
+| **Total**                             |  **10.0** |
 
 ## Como executar
 
